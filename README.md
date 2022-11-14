@@ -1,7 +1,7 @@
 # TestiCar
 Tämä on harjoitusvarasto TestiCar Palvelinten Hallinta koulukurssille
 
-##Kotitehtävä
+## Kotitehtävä
 
 Tässä lisään virtuaalikoneellani tekstiä ja kohta katson:
 - Näkyykö ne weppiliittymällä Githubissa?
